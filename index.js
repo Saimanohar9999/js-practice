@@ -152,6 +152,9 @@ function arrfunc(){console.log("this is normal function")}
 
 
 //React --refactoring into multiple components
+let func=()=>{
+    console.log("this is an arrow function")
+}
 
 
 
