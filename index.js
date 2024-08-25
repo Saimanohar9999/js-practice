@@ -121,7 +121,7 @@
 
 // let ar2=Hoc(ar1,(num)=>num*2)
 // console.log(ar2)
-
+//sadfevjbfjberakjs
 
 //Map(),forEach(),filer(),reduce()
 
