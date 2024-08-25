@@ -155,7 +155,7 @@ function arrfunc(){console.log("this is normal function")}
 let func=()=>{
     console.log("this is an arrow function")
 }
-
+//added arrow function
 
 
 
